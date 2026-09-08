@@ -1,7 +1,7 @@
 # a = "+1 234 567 89 10"
 # b = a.replace (" ","*")
 # print (b)
-
+print("I love cheese buldak")
 
 
 
