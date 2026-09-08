@@ -1,0 +1,2 @@
+check guess a number file 
+add code that check if player1 win in monopoly
