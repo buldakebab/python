@@ -17,8 +17,6 @@
 
 # print(f"Yeva has {euro_balance} euros, that mean Yeva has {prise} krones")
 
-# ,,.----
-input *5+10!!!!!!!!!!!!!
 box=int(input('type a number'))
 balance=box+box+box+box
 print (balance)
